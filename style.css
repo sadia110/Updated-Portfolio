@@ -1,0 +1,204 @@
+
+post-container{
+    margin: 20px 20px 0 0;  
+}
+
+
+.post-content {
+    float:right;
+}
+ 
+
+#hp  {
+  float: left;    
+   margin: 0 20px 0 0;
+  }
+ 
+.container {
+    width: 720px;
+    
+
+ 
+     
+}  
+.col-md-4 {
+    float:right;
+}
+ 
+
+
+p.indent {
+  font-size:medium; 
+  margin-right: 10%; 
+  text-align:start;
+
+} 
+body {
+  background-color: #23beb7;
+  padding: 20px;
+  font-family: Arial;
+}
+
+.navbar  
+
+.column {
+    float: right;
+    width: 50%;
+    padding: 10px;
+    height: 300px; 
+  }
+  .card-deck 
+  bottom-margin: 10px; 
+
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+}
+
+.container {
+  padding: 0 16px;
+}
+
+
+
+.title {
+  color: grey;
+}
+
+
+.button:hover {
+  background-color: #555;
+}
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+
+
+ /* CONTACT INFO CSS */  
+
+
+ 
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px;   
+    border: 1px solid rgb(8, 8, 8); 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical 
+  }
+  
+  input[type=submit] {
+    background-color: white;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #4f0ec9;
+  }
+  
+  /* Add a background color*/
+  .container {
+    border-radius: 5px;
+    background-color: #e0eff7;
+    padding: 20px;
+  } 
+
+
+  /* PORTFOLIO CSS  */ 
+
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #23beb7;
+    padding: 20px;
+    font-family: Arial;
+  }
+  
+  .main {
+    max-width: 1000px;
+    margin: auto;
+  }
+  
+  h1 {
+    font-size: 70px;
+    word-break: break-all;
+  }
+  
+  .row {
+    margin: 8px -16px;
+  }
+  
+  .row,
+  .row > .column {
+    padding: 8px;
+  }
+  
+  .column {
+    float: left;
+    width: 30%;
+  }
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  .content {
+    background-color: white;
+    padding: 10px;
+  }
+  
+  @media screen and (max-width: 1000px) {
+    .column {
+      width: 50%;
+    }
+  }
+ 
+
+
+}
+.btn-linkedin {
+  background: #0E76A8;
+  border-radius: 0;
+  color: #fff;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #060707;
+}
+.btn-linkedin:link, .btn-linkedin:visited {
+  color: #fff;
+}
+.btn-linkedin:active, .btn-linkedin:hover {
+  background: #084461;
+  color: #fff;
+} 
