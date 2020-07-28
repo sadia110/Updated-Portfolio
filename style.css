@@ -15,7 +15,7 @@ post-container{
   }
  
 .container {
-    width: 720px;
+    width: 900px;
     
 
  
@@ -33,6 +33,12 @@ p.indent {
   text-align:start;
 
 } 
+p2 {
+    font-size:medium; 
+    margin-right: 10%; 
+    text-align:start;
+  
+  } 
 body {
   background-color: #23beb7;
   padding: 20px;
@@ -111,7 +117,7 @@ input[type=text], select, textarea {
   }
   
   input[type=submit] {
-    background-color: white;
+    background-color:cornflowerblue;
     color: white;
     padding: 12px 20px;
     border: none;
